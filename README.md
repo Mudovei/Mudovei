@@ -1,6 +1,6 @@
 # Yuri Carlos de Araujo
 
-🚀 **Estudante de ADS | Fullstack Junior | Java & HTML5 CSS3 Junior**  
+🚀 **Estudante de ADS | Fullstack Junior | Java C# & HTML5 CSS3 TYPESCRIPT**  
 🇧🇷 Brasil
 
 Estudando e praticando **Front-end e Back-end** para a criar sites modernos e detalhado.
@@ -29,7 +29,8 @@ Trabalhando, organizando e colaborando com o projeto **NeuroVita**
 -   🏗️ Desenvolver Front-end & Back-end
 -   👾 Analisar e corrigir bugs
 -   📚 Pacote office microsoft & libreoffice
--   ⚙️   Manuntenção de sistema
+-   ⚙️ Manuntenção de sistema
+-   🐧 Conhecimento básico em Linux
 
 ---
 
